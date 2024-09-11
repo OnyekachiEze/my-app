@@ -32,9 +32,9 @@ function MainContainer() {
     return (
         <div className='main-container'>
             <Sidebar />
-            {/* <Welcome /> */}
+            <Welcome />
             {/* <CreateGroups /> */}
-            <ChatArea props={conversations[0]}/>
+            {/* <ChatArea props={conversations[0]}/> */}
         </div>
     )
 }

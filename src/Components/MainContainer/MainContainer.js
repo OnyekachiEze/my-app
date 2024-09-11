@@ -15,6 +15,7 @@ function MainContainer() {
           lastMessage: "Last Message#1",
           timeStamp: "today",
         },
+        
         {
           name: "Test#2",
           lastMessage: "Last Message#2",
